@@ -11,5 +11,4 @@ class Adder
 		System.out.println("A + B	   =  "+(a+b));
 		
 	}
-	git remote add origin https://github.com/monkub09/Programming-Special.git
 }
