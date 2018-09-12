@@ -8,8 +8,8 @@ class  BMI
 		double height = sc.nextDouble();
 		System.out.print("Weight   =	 ");
 		double weight = sc.nextDouble();
-		double hm = height / 100.0;
-		double bmi = weight / (hm * hm);
+		double h = height / 100.0;
+		double bmi = weight / (h * h);
 		System.out.println("BMI	 =	 " + bmi);
 
 		}
